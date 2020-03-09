@@ -1,0 +1,18 @@
+.sp{
+    color: darkolivegreen;
+}
+.sap{
+    color: rgb(14, 13, 13);
+    text-align: center;
+}
+.img1{
+    width: 200px;
+    margin: 100px;
+}
+.block-img{
+    display: flex;
+}
+.maps{
+    width: 200px;
+height: 200px;
+}
